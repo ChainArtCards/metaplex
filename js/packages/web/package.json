@@ -68,7 +68,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/metaplex-foundation/metaplex"
+    "url": "https://github.com/ChainArtCards/metaplex"
   },
   "homepage": ".",
   "devDependencies": {
